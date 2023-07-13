@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="10" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-13T18:16:53 IST" name="Suite" finished-at="2023-07-13T18:17:17 IST" duration-ms="23603">
+    <groups>
+    </groups>
+    <test started-at="2023-07-13T18:16:53 IST" name="Test" finished-at="2023-07-13T18:17:17 IST" duration-ms="23603">
+      <class name="student.Student_attendanceHistory_SMSTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:student.Student_attendanceHistory_SMSTest@d86a6f]" started-at="2023-07-13T18:17:12 IST" name="launchBrowser" finished-at="2023-07-13T18:17:14 IST" duration-ms="2439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:student.Student_attendanceHistory_SMSTest@d86a6f]" started-at="2023-07-13T18:17:14 IST" name="login" finished-at="2023-07-13T18:17:15 IST" duration-ms="1007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="AttHistoryTest()[pri:0, instance:student.Student_attendanceHistory_SMSTest@d86a6f]" started-at="2023-07-13T18:17:15 IST" name="AttHistoryTest" finished-at="2023-07-13T18:17:16 IST" duration-ms="1159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AttHistoryTest -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:student.Student_attendanceHistory_SMSTest@d86a6f]" started-at="2023-07-13T18:17:16 IST" name="logout" finished-at="2023-07-13T18:17:17 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:student.Student_attendanceHistory_SMSTest@d86a6f]" started-at="2023-07-13T18:17:17 IST" name="closeBrowser" finished-at="2023-07-13T18:17:17 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- student.Student_attendanceHistory_SMSTest -->
+      <class name="student.SearchTeacher_SMSTest">
+        <test-method is-config="true" signature="connectDB()[pri:0, instance:student.SearchTeacher_SMSTest@20140db9]" started-at="2023-07-13T18:16:53 IST" name="connectDB" finished-at="2023-07-13T18:16:53 IST" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectDB -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:student.SearchTeacher_SMSTest@20140db9]" started-at="2023-07-13T18:16:53 IST" name="launchBrowser" finished-at="2023-07-13T18:16:58 IST" duration-ms="4844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:student.SearchTeacher_SMSTest@20140db9]" started-at="2023-07-13T18:16:58 IST" name="login" finished-at="2023-07-13T18:16:59 IST" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchTeacher()[pri:0, instance:student.SearchTeacher_SMSTest@20140db9]" started-at="2023-07-13T18:16:59 IST" name="searchTeacher" finished-at="2023-07-13T18:17:01 IST" duration-ms="2012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTeacher -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:student.SearchTeacher_SMSTest@20140db9]" started-at="2023-07-13T18:17:01 IST" name="logout" finished-at="2023-07-13T18:17:02 IST" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:student.SearchTeacher_SMSTest@20140db9]" started-at="2023-07-13T18:17:02 IST" name="closeBrowser" finished-at="2023-07-13T18:17:02 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="closeDB()[pri:0, instance:student.SearchTeacher_SMSTest@20140db9]" started-at="2023-07-13T18:17:17 IST" name="closeDB" finished-at="2023-07-13T18:17:17 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDB -->
+      </class> <!-- student.SearchTeacher_SMSTest -->
+      <class name="student.StudentExamMarks_SMSTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:student.StudentExamMarks_SMSTest@63376bed]" started-at="2023-07-13T18:17:02 IST" name="launchBrowser" finished-at="2023-07-13T18:17:05 IST" duration-ms="2752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:student.StudentExamMarks_SMSTest@63376bed]" started-at="2023-07-13T18:17:05 IST" name="login" finished-at="2023-07-13T18:17:05 IST" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="ExamMarksGraph()[pri:0, instance:student.StudentExamMarks_SMSTest@63376bed]" started-at="2023-07-13T18:17:05 IST" name="ExamMarksGraph" finished-at="2023-07-13T18:17:06 IST" duration-ms="917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExamMarksGraph -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:student.StudentExamMarks_SMSTest@63376bed]" started-at="2023-07-13T18:17:06 IST" name="logout" finished-at="2023-07-13T18:17:07 IST" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:student.StudentExamMarks_SMSTest@63376bed]" started-at="2023-07-13T18:17:07 IST" name="closeBrowser" finished-at="2023-07-13T18:17:07 IST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- student.StudentExamMarks_SMSTest -->
+      <class name="student.StudentSubject_SMSTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:student.StudentSubject_SMSTest@4145bad8]" started-at="2023-07-13T18:17:07 IST" name="launchBrowser" finished-at="2023-07-13T18:17:10 IST" duration-ms="2565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:student.StudentSubject_SMSTest@4145bad8]" started-at="2023-07-13T18:17:10 IST" name="login" finished-at="2023-07-13T18:17:10 IST" duration-ms="746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Subject()[pri:0, instance:student.StudentSubject_SMSTest@4145bad8]" started-at="2023-07-13T18:17:10 IST" name="Subject" finished-at="2023-07-13T18:17:11 IST" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subject -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:student.StudentSubject_SMSTest@4145bad8]" started-at="2023-07-13T18:17:11 IST" name="logout" finished-at="2023-07-13T18:17:11 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:student.StudentSubject_SMSTest@4145bad8]" started-at="2023-07-13T18:17:11 IST" name="closeBrowser" finished-at="2023-07-13T18:17:12 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- student.StudentSubject_SMSTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
